@@ -36,8 +36,8 @@ GROUP_REPOS = [
     ],
     [
         "group f",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "Group 1",
+        ["https://github.com/Afab1311/MiniTwit-gruppe1"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
