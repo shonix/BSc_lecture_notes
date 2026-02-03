@@ -57,7 +57,7 @@ GROUP_REPOS = [
     ],
     [
         "group i",
-        "<name>",
+        "Team Connie",
         ["https://github.com/21Philip/devops-minitwit"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
