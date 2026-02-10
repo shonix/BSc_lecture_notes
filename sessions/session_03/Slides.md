@@ -25,7 +25,6 @@ class: center, middle
   Image source: https://edu.rsc.org/feature/maintaining-good-mental-heath/4011209.article
 </small>
 
-
 ---
 
 ### Feedback
@@ -109,14 +108,6 @@ We will look at various ways to *provision* machines locally and remotely (in th
   5. _Manual_ provision of _remote VMs_ at DigitalOcean
   6. _Automatic_ provision of _remote VMs_ at DigitalOcean via a web-API
   7. _Automatic_ provision of _remote clusters of VMs_ at DigitalOcean via Vagrant
-
----
-
-## Getting bored today?
-
-<img src="http://static3.businessinsider.com/image/4fbfb86becad044879000001-506-253/suddenly-startups-have-gotten-very-boring.jpg" width="40%">
-
-  * [Start working on the exercises](./README_EXECISE.md)
 
 ---
 
@@ -459,7 +450,6 @@ Vagrant.configure("2") do |config|
     sudo apt-get update
   SHELL
 end
-
 ```
 
 ---
@@ -755,7 +745,6 @@ $ vagrant up --provider=azure
 ```
 
 The first line would deploy your VM as droplet on DigitalOcean (https://github.com/devopsgroup-io/vagrant-digitalocean), the second line would do similarly on Amazon AWS (https://github.com/mitchellh/vagrant-aws), and the third line would deploy at Azure (https://github.com/Azure/vagrant-azure).
-
 
 ---
 
