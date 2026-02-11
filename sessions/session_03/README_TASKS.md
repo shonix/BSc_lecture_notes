@@ -72,7 +72,7 @@ That means, creation of your virtual machines has to be automatically reproducib
 
 ### b) Release and deploy your _ITU-MiniTwit_.
 
-  * Prepare a new release of your _ITU-MiniTwit_ latest by **Thursday Feb 19th, at 12:00**)
+  * Prepare a new release of your _ITU-MiniTwit_ latest by **Monday Feb 16th, at 12:00**)
   * Via a script, deploy your application, the release from above, to you server.
     - **OBS**: The simulator API from the task 1 is part of your _ITU-MiniTwit_, i.e., it has to be deployed too.
   * Your application has to be reachable via a public IP/domain.

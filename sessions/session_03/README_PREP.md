@@ -18,6 +18,8 @@ To install VirtualBox you can use sudo:
 sudo apt install virtualbox virtualbox-ext-pack
 ```
 
+In case you observe an error about a package conflict to `virtualbox-7.2` or similar, then try to remove the previously installed VirtualBox packages (`sudo apt remove virtualbox virtualbox-ext-pack`) first and then re-install them as above.
+
 #### Install Vagrant
 
 Since the packaged Vagrant in the linked repositories is in a bit buggy version we install it directly from the package provided by the tool vendor:
