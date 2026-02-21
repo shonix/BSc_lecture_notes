@@ -31,8 +31,8 @@ GROUP_REPOS = [
         "group e",
         "Disaster",
         ["https://github.com/Itu-DevOps-2026/ITU-MiniTwit"],
-        "http://138.68.104.180:5000",
-        "http://138.68.104.180:5000",
+        "http://165.227.145.109:5000",
+        "http://165.227.145.109:5000/api",
     ],
     [
         "group f",
