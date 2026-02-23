@@ -22,10 +22,10 @@ GROUP_REPOS = [
     ],
     [
         "group d",
-        "Dense Dino Nuggets",
-        ["https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "Mixed",
+        ["https://github.com/KaramTNC/itu-minitwit"],
+        "http://165.22.66.118:5001",
+        "http://46.101.201.186:8080",
     ],
     [
         "group e",
