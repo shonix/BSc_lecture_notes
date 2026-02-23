@@ -66,9 +66,9 @@ GROUP_REPOS = [
     [
         "group k",
         "DevBobs",
-        ["https://github.com/mortfb/Devops_devBobs"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        ["https://github.com/DevBobs-devops/Devbobs_MiniTwit"],
+        "http://209.38.230.113:8080/",
+        "http://209.38.230.113:8080/",
     ],
     [
         "group l",
