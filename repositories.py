@@ -15,10 +15,10 @@ GROUP_REPOS = [
     ],
     [
         "group c",
-        "group c",
-        ["https://github.com/jskoven/Devops2026_jklo_jakst_aing_asjo_mbln"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "youCanCUs",
+        ["https://github.com/Anders0106/Devops2026"],
+        "https://devops2026-production.up.railway.app",
+        "https://devops2026-production.up.railway.app",
     ],
     [
         "group d",
