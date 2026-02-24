@@ -50,10 +50,10 @@ GROUP_REPOS = [
     ],
     [
         "group i",
-        "I Terroni",
-        ["https://github.com/stegish/I-Terroni-DevOps"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "Team Connie",
+        ["https://github.com/21Philip/devops-minitwit"],
+        "http://146.190.204.218:5001",
+        "http://146.190.204.218:5000",
     ],
     [
         "group j",
