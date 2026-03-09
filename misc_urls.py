@@ -25,9 +25,11 @@ GROUP_URLS = [
     ],
     [
         "group d",
-        "<name>",
+        "Mixed",
         # Monitoring URL:
-        "<monitoring_url>",
+        # This Grafana instance is currently running on a VM that we set up for staging, so it is not showing the metrics from the real simulator.
+        # Once we have all of the components ready, we'll apply it to the production server and update the URL here accordingly.
+        "http://134.122.71.241:3000/public-dashboards/755d9f514e484aa6b762b721edb282fb",
         # Logging URL:
         "<logging_url>",
     ],
